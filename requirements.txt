@@ -31,7 +31,7 @@ more-itertools==7.0.0
 msrest==0.6.6
 msrestazure==0.6.0
 mssql-scripter==1.0.0a23
-nltk==3.4.1
+nltk==3.4.5
 oauthlib==3.0.1
 portalocker==1.4.0
 portend==2.4
