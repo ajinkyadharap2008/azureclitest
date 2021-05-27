@@ -35,7 +35,7 @@ nltk==3.4.1
 oauthlib==3.0.1
 portalocker==1.4.0
 portend==2.4
-psutil==5.6.2
+psutil==5.6.6
 pycparser==2.19
 pycurl==7.43.0
 Pygments==2.4.0
