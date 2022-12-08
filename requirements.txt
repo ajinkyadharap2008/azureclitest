@@ -6,7 +6,7 @@ azure-common==1.1.20
 azure-cosmos==3.1.0
 azure-servicefabric==6.4.0.0
 backports.functools-lru-cache==1.5
-certifi==2019.3.9
+certifi==2022.12.7
 cffi==1.12.3
 chardet==3.0.4
 cheroot==6.5.5
